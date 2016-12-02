@@ -1,0 +1,19 @@
+{
+  "name": "eium-hint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "config": {
+    "ium_dir": "/home/leo/project/templates"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exit": "^0.1.2",
+    "shelljs": "^0.7.5"
+  }
+}
